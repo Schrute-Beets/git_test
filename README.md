@@ -1,3 +1,3 @@
 # git_test
-This si the first GitHub repository test.
+This is the first GitHub repository test.
 Hello, Odin!
