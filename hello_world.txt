@@ -1,0 +1,1 @@
+This is editing the 'hello world' text file, independently of the repository's README.
